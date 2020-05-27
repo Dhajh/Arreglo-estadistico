@@ -219,4 +219,35 @@ Se pueden añadir cálculos estadísticos prede-terminados adicionales para info
  
                                            Figura 7. Creacion del bucle promedio por columna
 
+   ![PalabrasdelTextoAlternativo](https://github.com/Sebastian-george09/Arreglo-estadistico/blob/master/IMAGENES/Figura8.jpg)
+ 
+                                           Figura 8.  Creacion de nuevas variables de almacenamiento
+                                           
+   ![PalabrasdelTextoAlternativo](https://github.com/Sebastian-george09/Arreglo-estadistico/blob/master/IMAGENES/Figura9.jpg)
+ 
+                                           Figura 9.  Creacion de bucle desviacion estandar por nivel
+                                           
+   ![PalabrasdelTextoAlternativo](https://github.com/Sebastian-george09/Arreglo-estadistico/blob/master/IMAGENES/Figura10.jpg)
+ 
+                                           Figura 10.  Creacion de bucle desviacion estandar por renglon
+
+   ![PalabrasdelTextoAlternativo](https://github.com/Sebastian-george09/Arreglo-estadistico/blob/master/IMAGENES/Figura11.jpg)
+ 
+                                           Figura 11.  Creacion de bucle desviacion estandar por columna
+
+
+**5. Conclusiones**
+
+El lenguaje de programación Python puede ser utilizado para trabajar con la estadística y cálcu-los matemáticos, ya que facilita la realización de diversas tareas en ellos. Un ejemplo es el pro-grama anterior presentado el cual puede ser utilizado en procesos específicos estadísticos, INEGI (Instituto Nacional de Estadística y Geo-grafía) es una empresa encargada de datos estadísticos de información en México, este programa facilita al usuario hacer un cálculo estadístico de un array, ya sea con datos al azar o establecidos.
+
+**6. Bibliografía**
+
+Oscar, de la Fuente (2019). Google Colab: Python y Machine Learning en la nube. Adictosaltrabajo.
+https://www.adictosaltrabajo.com/2019/06/04/google-colab-python-y-machine-learning-en-la-nube/
+
+Anonimo (2019). Adobe. Resumen de los informes. Guia de herramientas de Analytics.
+https://claudiovz.github.io/scipy-lecture-notes-ES/intro/numpy/array_object.html
+
+Alejandro, Lamadrid y Antonio, Jimenez, España, (2014-2020). Tipos de datos en arrays Numpy (dtype).
+https://python-para-impacientes.blogspot.com/2019/10/tipos-de-datos-en-arrays-numpy-dtype.html 
 
