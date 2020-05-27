@@ -173,4 +173,50 @@ Se pueden añadir cálculos estadísticos prede-terminados adicionales para info
      'La desviacion estandar por columnas es:',desv_col
      
      
+   **3. 	Manejo de datos**
+  
+  A continuación, se proporcionarán los datos de los aspectos en los que fue probado el pro-grama.
+  
+   3.1. 	Tipos de datos manejados
+  Los datos que utilice para mi programa son datos estadísticos el cual se hacen operaciones y ciclos, almacenándolos en variables y gene-rando un array como resultado.
+
+  3.2. 	Sistema Operativo
+  Puede utilizarse desde un medio con internet, buscando “Google Colab”, accediendo con una cuenta de Google totalmente gratis, y en siste-ma Windows.
+  
+  3.3. Equipo de prueba
+  El equipo en el cual fue probado el programa es una computadora portátil de la marca Hp con las siguientes características:
      
+   ![PalabrasdelTextoAlternativo](https://github.com/Sebastian-george09/Arreglo-estadistico/blob/master/IMAGENES/Figura1.jpg)
+
+                                          Figura 1. Especificaciones del dispositivo
+
+   ![PalabrasdelTextoAlternativo](https://github.com/Sebastian-george09/Arreglo-estadistico/blob/master/IMAGENES/Figura2.jpg)
+
+                                          Figura 2. Especificaciones del dWindows
+
+     
+   **4. 	Resultados**
+   
+   Se utilizara un ejemplo de arrary de (3,3,3), pero en el programa se pueden generar datos de hasta (100,100,100)
+   
+   ![PalabrasdelTextoAlternativo](https://github.com/Sebastian-george09/Arreglo-estadistico/blob/master/IMAGENES/Figura3.jpg)
+                   
+                                           Figura 3. Creación del arreglo
+   
+   ![PalabrasdelTextoAlternativo](https://github.com/Sebastian-george09/Arreglo-estadistico/blob/master/IMAGENES/Figura4.jpg)
+
+                                           Figura 4. Creacion de variables de almacenamiento
+
+   ![PalabrasdelTextoAlternativo](https://github.com/Sebastian-george09/Arreglo-estadistico/blob/master/IMAGENES/Figura5.jpg)
+
+                                           Figura 5. Creacion del bucle promedio por nivel
+
+   ![PalabrasdelTextoAlternativo](https://github.com/Sebastian-george09/Arreglo-estadistico/blob/master/IMAGENES/Figura6.jpg)
+
+                                           Figura 6. Creacion del bucle promedio por renglon
+ 
+   ![PalabrasdelTextoAlternativo](https://github.com/Sebastian-george09/Arreglo-estadistico/blob/master/IMAGENES/Figura6.jpg)
+ 
+                                           Figura 7. Creacion del bucle promedio por columna
+
+
